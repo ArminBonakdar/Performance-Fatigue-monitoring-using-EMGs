@@ -17,7 +17,7 @@ Data Acquisition
   - IMU placements: Sternum, Sacrum, Upper Arm (R), Forearm (R), Thigh (R), Shank (R), Foot (R)
 
 Signal Processing
-- sEMG Preprocessing:
+sEMG Preprocessing:
   - Bandpass filter: 10–500 Hz
   - Smoothing: 50 ms moving average
   - Normalization: relative to the first 5 lifting cycles (non-fatigued baseline)
